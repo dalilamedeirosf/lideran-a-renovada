@@ -144,7 +144,7 @@ function Index() {
                   </p>
                 </div>
               </div>
-              <div className="flex gap-4 p-6 rounded-xl border border-black/5 hover:border-primary/20 transition-all md:col-span-2 lg:col-span-1">
+              <div className="flex gap-4 p-6 rounded-xl border border-black/5 hover:border-primary/20 transition-all md:col-span-2 lg:col-span-1 lg:col-start-2">
                 <div className="text-primary font-bold text-xl">✓</div>
                 <div>
                   <h3 className="font-bold mb-2">Pensar em legado</h3>
