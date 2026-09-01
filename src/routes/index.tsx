@@ -289,7 +289,8 @@ function Index() {
                 QUERO PARTICIPAR POR R$ 97
               </a>
               <p className="text-xs opacity-60 flex items-center justify-center gap-2">
-                🔒 Pagamento Seguro e Acesso após a Confirmação
+                <Lock className="w-3 h-3" />
+                Pagamento Seguro e Acesso após a Confirmação
               </p>
             </div>
           </div>
