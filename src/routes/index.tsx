@@ -68,7 +68,7 @@ function Index() {
                 <div className="w-8 h-8 rounded-full bg-slate-300 border-2 border-white"></div>
                 <div className="w-8 h-8 rounded-full bg-slate-400 border-2 border-white"></div>
               </div>
-              <span>+3.200 pacientes atendidos</span>
+              <span>+2.500 líderes impactados</span>
             </div>
           </div>
 
