@@ -105,7 +105,7 @@ function Index() {
               Você vai aprender como:
             </p>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               <div className="flex gap-4 p-6 rounded-xl border border-black/5 hover:border-primary/20 transition-all">
                 <div className="text-primary font-bold text-xl">✓</div>
                 <div>
