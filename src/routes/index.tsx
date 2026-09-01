@@ -1,4 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { BookOpen, Compass, Rocket, Target } from "lucide-react";
 
 import heroPastor from "@/assets/hero-pastor.png";
 import amazonRiver from "@/assets/amazon-river.png";
