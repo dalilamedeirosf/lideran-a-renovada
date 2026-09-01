@@ -218,8 +218,8 @@ function Index() {
         </div>
         <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="bg-card p-10 border border-black/5 rounded-2xl">
-            <div className="w-12 h-12 bg-primary/5 rounded-lg mb-6 grid place-items-center text-2xl">
-              🎯
+            <div className="w-12 h-12 bg-primary/5 rounded-lg mb-6 grid place-items-center text-primary">
+              <Target className="w-6 h-6" />
             </div>
             <h4 className="font-bold text-lg mb-2">IMERSÃO COMPLETA</h4>
             <p className="text-muted-foreground text-sm">
@@ -227,8 +227,8 @@ function Index() {
             </p>
           </div>
           <div className="bg-card p-10 border border-black/5 rounded-2xl">
-            <div className="w-12 h-12 bg-primary/5 rounded-lg mb-6 grid place-items-center text-2xl">
-              📚
+            <div className="w-12 h-12 bg-primary/5 rounded-lg mb-6 grid place-items-center text-primary">
+              <BookOpen className="w-6 h-6" />
             </div>
             <h4 className="font-bold text-lg mb-2">AULAS GRAVADAS</h4>
             <p className="text-muted-foreground text-sm">
@@ -236,8 +236,8 @@ function Index() {
             </p>
           </div>
           <div className="bg-card p-10 border border-black/5 rounded-2xl">
-            <div className="w-12 h-12 bg-primary/5 rounded-lg mb-6 grid place-items-center text-2xl">
-              🧭
+            <div className="w-12 h-12 bg-primary/5 rounded-lg mb-6 grid place-items-center text-primary">
+              <Compass className="w-6 h-6" />
             </div>
             <h4 className="font-bold text-lg mb-2">DIREÇÃO PRÁTICA</h4>
             <p className="text-muted-foreground text-sm">
@@ -245,8 +245,8 @@ function Index() {
             </p>
           </div>
           <div className="bg-card p-10 border border-black/5 rounded-2xl">
-            <div className="w-12 h-12 bg-primary/5 rounded-lg mb-6 grid place-items-center text-2xl">
-              🚀
+            <div className="w-12 h-12 bg-primary/5 rounded-lg mb-6 grid place-items-center text-primary">
+              <Rocket className="w-6 h-6" />
             </div>
             <h4 className="font-bold text-lg mb-2">VISÃO DE LONGEVIDADE</h4>
             <p className="text-muted-foreground text-sm">
